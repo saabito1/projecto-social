@@ -20,7 +20,7 @@ main{
     
 }
 #telefone{
-    background: url(../imagens/frame-iphone.png) no-repeat ;
+    background: url(../imagens/frame-iphone.png) no-repeat fixed;
     height: 627px;
     width: 311px;
     position: absolute;
